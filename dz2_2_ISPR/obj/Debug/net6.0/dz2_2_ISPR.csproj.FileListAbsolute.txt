@@ -1,0 +1,15 @@
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/bin/Debug/net6.0/dz2_2_ISPR
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/bin/Debug/net6.0/dz2_2_ISPR.deps.json
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/bin/Debug/net6.0/dz2_2_ISPR.runtimeconfig.json
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/bin/Debug/net6.0/dz2_2_ISPR.dll
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/bin/Debug/net6.0/dz2_2_ISPR.pdb
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.csproj.AssemblyReference.cache
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.AssemblyInfoInputs.cache
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.AssemblyInfo.cs
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.csproj.CoreCompileInputs.cache
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.dll
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/refint/dz2_2_ISPR.dll
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.pdb
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/dz2_2_ISPR.genruntimeconfig.cache
+/Users/alla/Desktop/seminar_2/dz2_2_ISPR/obj/Debug/net6.0/ref/dz2_2_ISPR.dll
